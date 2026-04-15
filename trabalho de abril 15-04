@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Minha Página Pessoal</title>
+
+    <style>
+        body {
+            background-color: #f0f8ff;
+            color: #333;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        h1 {
+            color: #2c3e50;
+            font-size: 36px;
+        }
+
+        p {
+            font-size: 18px;
+            width: 60%;
+            margin: auto;
+        }
+
+        img {
+            width: 200px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        a {
+            display: inline-block;
+            margin-top: 15px;
+            color: white;
+            background-color: #3498db;
+            padding: 10px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            font-size: 18px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Título e texto -->
+    <h1>Gabriel Filyp</h1>
+
+    <p>
+        Olá! Meu nome é <strong>Gabriel Filyp</strong>. Eu sou uma pessoa 
+        <em>dedicada</em> e gosto de aprender coisas novas. 
+        Atualmente estou estudando na nova ecola reformada <u>Rotildino Avelino</u>.
+    </p>
+
+    <!-- Link -->
+    <br>
+    <a href="https://youtube.com/shorts/yDWbRVhop8A?si=wzcIqoRX5FLK-OcY">
+        Meu time do Coração
+    </a>
+
+    <!-- Lista -->
+    <h2>Meus hobbies</h2>
+    <ul>
+        <li>🎮 Jogar varios jogos</li>
+         <!-- Imagem -->
+    <img src="https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2026/01/G-l9SBAWcAAwRfg_1-640x640.webp">
+    
+        <li>📚 Estudar</li>
+          <!-- Imagem -->
+    <img src="https://img.freepik.com/fotos-gratis/menino-jovem-surpreso-com-uma-bolsa-oculos-e-bone-segurando-livros-e-colocando-a-mao-em-oculos-isolados-na-parede-branca_141793-78118.jpg?semt=ais_hybrid&w=740&q=80">
+        <li>🎵 Ver series e animes</li>
+         <!-- Imagem -->
+    <img src="https://images.steamusercontent.com/ugc/9898505514396038295/0C852C87ED036E101F1E2B97FE3ECCBAFFC37D2B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+    </ul>
+
+</body>
+</html>
